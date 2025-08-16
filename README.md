@@ -88,17 +88,17 @@ src/
 
 2. **Install dependencies**
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. **Start development server**
    ```bash
-   pnpm run dev
+   npm run dev
    ```
 
 4. **Build for production**
    ```bash
-   pnpm run build
+   npm run build
    ```
 
 ## 📱 Mobile Responsiveness
