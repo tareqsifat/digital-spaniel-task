@@ -82,7 +82,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [digital-spaniel-task](https://github.com/tareqsifat/digital-spaniel-task)
    cd digital-spaniel-homepage
    ```
 
