@@ -83,7 +83,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/tareqsifat/digital-spaniel-task
-   cd digital-spaniel-homepage
+   cd digital-spaniel-task
    ```
 
 2. **Install dependencies**
